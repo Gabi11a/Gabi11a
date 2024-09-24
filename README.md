@@ -1,16 +1,13 @@
-## Hi there 👋
+## Palavras são como livros curtos, um aglomerado de significados e emoções confusas 📖🖤
 
-<!--
-**Gabi11a/Gabi11a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Olá, sou Gabi11a 😄
 
-Here are some ideas to get you started:
+-Sou aluna do curso Alura Start
+-Estou em desenvolvimento na linguagem de Javascript
+-Utilizo este espaço para meus projetos, incluindo o compartilhamento , organização e desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo📫
+
+00001216775710sp@al.educacao.sp.gov.br
+
+![](![image](https://github.com/user-attachments/assets/a5ac6dcc-bd3e-414e-81f5-39fd931295d0)
